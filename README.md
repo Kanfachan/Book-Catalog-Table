@@ -35,11 +35,11 @@ The goal of this project is to reinforce practical HTML knowledge by building a 
 
 ## GitHub Deployment Location (HTTPS)
 
-
+https://kanfachan.github.io/Book-Catalog-Table/
 
 ## GitHub Repository Location (HTTPS)
 
-
+https://github.com/Kanfachan/Book-Catalog-Table
 
 ## Credits
 
